@@ -81,6 +81,7 @@
     } else {
         self.stationTextField.text = self.arrayOfStations[row];
     }
+    
 }
 
 - (IBAction)nextButtonPressed:(UIButton *)sender {
